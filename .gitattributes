@@ -8,6 +8,7 @@
 *.vbs text eol=crlf
 
 *.klc text eol=crlf working-tree-encoding=UTF-16LE-BOM
+*.reg text eol=crlf working-tree-encoding=UTF-16LE-BOM
 
 # https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#_merge_strategies
 *.lock text -diff merge=ours linguist-generated
